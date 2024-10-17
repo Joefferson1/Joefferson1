@@ -1,3 +1,3 @@
-- 👋 Hi, I'm @Joeferson
-- 🌱 I'm currently learning...
+- 👋 Hi, I'm Joefferson
+- 🌱 I'm currently learning... System analysis and development
 - 📫 How to contact me... joefferson.635@gmail.com
